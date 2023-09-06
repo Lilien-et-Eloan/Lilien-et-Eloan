@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - je suis debutant en programmation python
-- j'ai un compte scratch avec plusieur projet 
+- j'ai un compte scratch avec plusieurs projet 
 
 <!---
 Lilien-et-Eloan/Lilien-et-Eloan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
